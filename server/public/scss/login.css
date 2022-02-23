@@ -1,0 +1,53 @@
+.cont
+{
+    
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border: 1px solid black;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding:auto;
+    background-color: aqua;
+
+}
+
+.body
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cnt
+{
+    margin: 5%;   
+
+}
+.form
+{
+    height: max-content;
+    margin: auto;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#login
+{
+    color: white;
+    background-color: rgb(59, 59, 211);
+    border-radius: 15px;
+    width: 70px;
+    height: 25px;
+    border: 0ch;
+}
+#login:hover
+{
+    background-color: rgba(59, 59, 211, 0.842);
+
+}

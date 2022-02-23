@@ -1,0 +1,27 @@
+.container1
+{position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 1px solid rgb(211, 35, 35);
+  padding: 4%;
+  margin: auto;
+  height: 400px;
+  width: 500px;
+}
+.cnt
+{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0%;
+  padding: 0;
+}
+.frm
+{
+  display: block;
+  margin: auto;
+  padding: 0%;
+}
